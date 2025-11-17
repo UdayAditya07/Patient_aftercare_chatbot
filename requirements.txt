@@ -1,0 +1,11 @@
+langchain==0.2.12
+langchain-community==0.2.11
+langchain-huggingface==0.0.3
+transformers==4.44.2
+sentence-transformers==3.0.1
+accelerate==0.34.2
+faiss-cpu==1.8.0
+torch>=2.3.0
+python-dotenv
+huggingface_hub
+hf_xet
